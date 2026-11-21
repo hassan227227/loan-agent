@@ -1,0 +1,32 @@
+[
+  {
+    "id": "APP-1001",
+    "name": "Sample Applicant A",
+    "credit_score": 742,
+    "monthly_income": 6200,
+    "monthly_debts": 900,
+    "requested_vehicle": "2026 compact SUV",
+    "proposed_monthly_payment": 480,
+    "documents": ["proof_of_income", "government_id", "proof_of_address"]
+  },
+  {
+    "id": "APP-1002",
+    "name": "Sample Applicant B",
+    "credit_score": 655,
+    "monthly_income": 4100,
+    "monthly_debts": 1100,
+    "requested_vehicle": "2025 sedan",
+    "proposed_monthly_payment": 390,
+    "documents": ["proof_of_income", "government_id"]
+  },
+  {
+    "id": "APP-1003",
+    "name": "Sample Applicant C",
+    "credit_score": 598,
+    "monthly_income": 3500,
+    "monthly_debts": 1500,
+    "requested_vehicle": "2026 pickup",
+    "proposed_monthly_payment": 610,
+    "documents": ["proof_of_income", "government_id", "proof_of_address"]
+  }
+]
